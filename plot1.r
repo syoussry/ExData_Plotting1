@@ -2,6 +2,8 @@
 #######################################
 ## BEFORE PLOTING - COMMON TO ALL FILE
 
+#THE DATA FILE SHOULD BE IN THE ACTIVE REPOSITORY
+
 #first: set your working directory
 myWd<-"C:/Users/Selim/Documents/GitHub/ExData_Plotting1"
 setwd(myWd)
